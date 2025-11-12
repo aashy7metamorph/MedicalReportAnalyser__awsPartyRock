@@ -32,7 +32,7 @@ This app is **educational** and **not a replacement for medical consultation**.
 ---
 
 ## 📝 How to Use
-1. Open the [Live App](https://partyrock.aws/u/ayeshamemon/PNTLs0e5V/Medical-Report-Analyser)  
+1. Open the [Live App](https://partyrock.aws/u/ayeshamemon/PNTLs0e5V/DrAi.sha4U)  
 2. Enter your **Age**, **Gender**, and **Location**.  
 3. Upload your **medical report as a PDF**.  
 4. Click **Run** to generate:  
